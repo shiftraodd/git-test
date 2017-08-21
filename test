@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 i find a bug
 
 test git hash-object
+
+test git update-index
